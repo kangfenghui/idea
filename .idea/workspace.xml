@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f0bdaf-70c0-4532-a1aa-c2646b63b396" name="Default" comment="&quot;This is my firest IDEA project&quot;">
-      <change afterPath="$PROJECT_DIR$/../dugujiujian_linghuchong/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dugujiujian_linghuchong/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dugujiujian_linghuchong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dugujiujian_linghuchong/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dugujiujian_linghuchong/dugujiujian_linghuchong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dugujiujian_linghuchong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dugujiujian_linghuchong/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,11 +36,10 @@
       <file leaf-file-name="TestGig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../dugujiujian_linghuchong/src/main/java/com/atguigu/jianfa/TestGig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="95">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
                 <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,8 +76,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
-    <option name="y" value="590" />
+    <option name="x" value="402" />
+    <option name="y" value="73" />
     <option name="width" value="1910" />
     <option name="height" value="885" />
   </component>
@@ -135,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="module&#10;repository" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../dugujiujian_linghuchong/src/main/java/com/atguigu/jianfa" />
@@ -214,7 +209,7 @@
       <workItem from="1607432414515" duration="2112000" />
       <workItem from="1607562334052" duration="3578000" />
       <workItem from="1607588760571" duration="4284000" />
-      <workItem from="1607685361892" duration="670000" />
+      <workItem from="1607685361892" duration="1173000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;This is my firest IDEA project&quot;">
       <created>1607433796324</created>
@@ -244,21 +239,29 @@
       <option name="project" value="LOCAL" />
       <updated>1607601089150</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;This is my firest IDEA project&quot;">
+      <created>1607686468547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607686468547</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15587000" />
+    <option name="totallyTimeSpent" value="16090000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="40" width="1528" height="708" extended-state="1" />
+    <frame x="535" y="246" width="1528" height="708" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32911393" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -266,7 +269,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27006802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27006802" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -314,7 +317,6 @@
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -405,11 +407,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../dugujiujian_linghuchong/src/main/java/com/atguigu/jianfa/TestGig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
             <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
